@@ -4,7 +4,7 @@
   "version" : "2.0",
   "manifest_version" : 2,
   "minimum_chrome_version": "34",
-  "description" : "This Chrome extension is developed for http://physitrack.com/ video calls. It doesn't do anything except capture content of your screen.",
+  "description" : "This Chrome extension is developed for http://physitrack.com/ video calls. It just captures content of your screen.",
   "homepage_url": "http://physitrack.com/",
   "background": {
     "scripts": ["background-script.js"],
